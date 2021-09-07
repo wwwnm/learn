@@ -1,0 +1,21 @@
+.content{
+    height: fit-content;
+    width: fit-content;
+    border: 1px solid black;
+}
+
+.div{
+    align-items: center;
+    border: 1px solid black;
+    height: 580px;
+    width: max-content;
+    padding: 10px;
+}
+img{
+    margin: 0 auto;
+    height: 580px;
+}
+button{
+    height: 40px;
+    width: 60px;
+}
